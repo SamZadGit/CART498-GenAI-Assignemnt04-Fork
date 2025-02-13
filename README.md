@@ -17,6 +17,4 @@ pip3 install flask openai python-dotenv
 
 # Run the app
 python3 app.py
-
-Sami
 ```
